@@ -5,6 +5,7 @@ Os dados foram obtidos no Kaggle. Temos as seguintes tabelas:
 
 * clientes_cadastrados.csv: contém informações pessoais dos clientes
 * clientes_aprovados.csv: é o arquivo que contém todos os registros de pagamento/padrão de cada cliente.
+
 -- Os dados estão disponíveis na pasta dados deste repositório.
 
 ## Aplicação 📲
